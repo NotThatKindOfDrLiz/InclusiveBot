@@ -1,7 +1,32 @@
-# mkstack
+# InclusiveBot
 
-> NOTE: This README is from a template and should be replaced with your project description.
+A lightweight app delivering inclusive design prompts to help developers build more accessible, privacy-conscious, and globally usable products.
 
-## Created with mkstack
+## Overview
 
-mkstack is a starter template for building Nostr web clients in TypeScript, using React, Tailwind, shadcn/ui, Vite, and Nostrify.
+InclusiveBot provides random prompts to inspire more inclusive digital product design.  
+It encourages developers to consider accessibility, low-resource environments, cognitive diversity, privacy protections, and global usability.
+
+Built with:
+- React
+- TypeScript
+- Vite
+- mkstack + Goose
+
+Deployed with GitHub Pages.
+
+## Features
+
+- Randomly display practical inclusive design prompts
+- Lightweight, mobile-friendly, and offline-capable
+- No tracking, no unnecessary data collection
+- Open-source and easy to extend
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+## Acknowledgements
+
+Built with mkstack and Goose.  
+Inspired by the urgent need to build a more inclusive and accessible digital future.
