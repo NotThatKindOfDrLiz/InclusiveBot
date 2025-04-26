@@ -11,9 +11,6 @@ Built with:
 - React
 - TypeScript
 - Vite
-- mkstack + Goose
-
-Deployed with GitHub Pages.
 
 ## Features
 
@@ -28,5 +25,5 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 ## Acknowledgements
 
-Built with mkstack and Goose.  
+Built with [MKStack](https://mkstack.xyz) and [Goose](https://github.com/block/goose).  
 Inspired by the urgent need to build a more inclusive and accessible digital future.
