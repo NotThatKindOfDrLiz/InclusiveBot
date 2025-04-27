@@ -1,6 +1,7 @@
 # InclusiveBot
 
 A lightweight app delivering inclusive design prompts to help developers build more accessible, privacy-conscious, and globally usable products.
+Try it [here](https://normal-dolls.surge.sh/)
 
 ## Overview
 
