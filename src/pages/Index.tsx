@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3f938ca (Move bot into repo)
 "use client";
 
 import { useState } from "react";
@@ -33,6 +36,7 @@ export default function HomePage() {
     const randomIndex = Math.floor(Math.random() * prompts.length);
     setPrompt(prompts[randomIndex]);
   }
+<<<<<<< HEAD
 
   return (
     <div style={{
@@ -75,17 +79,52 @@ export default function HomePage() {
 }
 =======
 // Update this page (the content is just a fallback if you fail to update the page)
+=======
+>>>>>>> 3f938ca (Move bot into repo)
 
-const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-gray-600">Start building your amazing project here!</p>
-      </div>
+    <div style={{
+      display: "flex",
+      flexDirection: "column",
+      justifyContent: "center",
+      alignItems: "center",
+      minHeight: "100vh",
+      backgroundColor: "#f7f7f7",
+      fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+      textAlign: "center",
+      padding: "2rem"
+    }}>
+      <h1 style={{ fontSize: "2rem", marginBottom: "2rem" }}>Inclusive Design Prompter</h1>
+      <p style={{ fontSize: "1.5rem", marginBottom: "2rem", maxWidth: "600px" }}>
+        {prompt || "Click the button to receive an inclusive design prompt!"}
+      </p>
+      <button
+        onClick={getRandomPrompt}
+        style={{
+          fontSize: "1.2rem",
+          padding: "0.75rem 1.5rem",
+          borderRadius: "8px",
+          border: "none",
+          backgroundColor: "#4CAF50",
+          color: "white",
+          cursor: "pointer",
+          transition: "background-color 0.3s"
+        }}
+        onMouseOver={(e) => (e.currentTarget.style.backgroundColor = "#45a049")}
+        onMouseOut={(e) => (e.currentTarget.style.backgroundColor = "#4CAF50")}
+      >
+        Get another prompt
+      </button>
+      <footer style={{ marginTop: "3rem", fontSize: "0.9rem", color: "#777" }}>
+        Built with ❤️ using mkstack + Goose.
+      </footer>
     </div>
   );
+<<<<<<< HEAD
 };
 
 export default Index;
 >>>>>>> c4ec538 (Initial commit from mkstack template)
+=======
+}
+>>>>>>> 3f938ca (Move bot into repo)

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "prompt-001",
+    "text": "Have you designed your interface to be usable without sound?",
+    "tags": [
+      "deaf",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-002",
+    "text": "Can your app be used comfortably on small, low-end devices?",
+    "tags": [
+      "low-resource",
+      "performance"
+    ]
+  },
+  {
+    "id": "prompt-003",
+    "text": "Is there a clear, persistent visual indicator that messages are end-to-end encrypted?",
+    "tags": [
+      "security",
+      "activism"
+    ]
+  },
+  {
+    "id": "prompt-004",
+    "text": "Does your onboarding clearly communicate what metadata is collected?",
+    "tags": [
+      "privacy",
+      "metadata"
+    ]
+  },
+  {
+    "id": "prompt-005",
+    "text": "Have you considered including users with low literacy in your testing?",
+    "tags": [
+      "cognitive-access",
+      "diversity"
+    ]
+  },
+  {
+    "id": "prompt-006",
+    "text": "Can users delete their data and messages quickly in an emergency?",
+    "tags": [
+      "safety",
+      "activism"
+    ]
+  },
+  {
+    "id": "prompt-007",
+    "text": "Have you included a way to use the app with a keyboard only?",
+    "tags": [
+      "accessibility",
+      "mobility"
+    ]
+  },
+  {
+    "id": "prompt-008",
+    "text": "Can your app be navigated using a screen reader?",
+    "tags": [
+      "blind",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-009",
+    "text": "Does the app remain functional with poor or no network connection?",
+    "tags": [
+      "low-resource",
+      "performance"
+    ]
+  },
+  {
+    "id": "prompt-010",
+    "text": "Is your UI visually accessible for users with colorblindness?",
+    "tags": [
+      "colorblind",
+      "visual"
+    ]
+  },
+  {
+    "id": "prompt-011",
+    "text": "Have you tested your content with left-to-right and right-to-left languages?",
+    "tags": [
+      "internationalization",
+      "diversity"
+    ]
+  },
+  {
+    "id": "prompt-012",
+    "text": "Do you offer multiple ways to perform key actions (e.g., tap, voice, type)?",
+    "tags": [
+      "flexibility",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-013",
+    "text": "Are font sizes and line spacing adjustable for readability?",
+    "tags": [
+      "low-vision",
+      "usability"
+    ]
+  },
+  {
+    "id": "prompt-014",
+    "text": "Does your app clearly state who built it and why?",
+    "tags": [
+      "trust",
+      "activism"
+    ]
+  },
+  {
+    "id": "prompt-015",
+    "text": "Have you included members of your target communities in design decisions?",
+    "tags": [
+      "co-design",
+      "inclusion"
+    ]
+  },
+  {
+    "id": "prompt-016",
+    "text": "Is there a way to delay sending a message to obscure the user's real-time location?",
+    "tags": [
+      "safety",
+      "activism"
+    ]
+  },
+  {
+    "id": "prompt-017",
+    "text": "Can users tag or categorize saved content in their own terms?",
+    "tags": [
+      "flexibility",
+      "personalization"
+    ]
+  },
+  {
+    "id": "prompt-018",
+    "text": "Are error messages easy to understand and helpful?",
+    "tags": [
+      "usability",
+      "cognitive-access"
+    ]
+  },
+  {
+    "id": "prompt-019",
+    "text": "Is your visual layout clear even when zoomed in 200%?",
+    "tags": [
+      "low-vision",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-020",
+    "text": "Have you designed for people who may have only one hand free?",
+    "tags": [
+      "mobility",
+      "usability"
+    ]
+  },
+  {
+    "id": "prompt-021",
+    "text": "Can your app be used with voice control tools?",
+    "tags": [
+      "accessibility",
+      "alternative-input"
+    ]
+  },
+  {
+    "id": "prompt-022",
+    "text": "Do users have control over what is shared publicly?",
+    "tags": [
+      "privacy",
+      "agency"
+    ]
+  },
+  {
+    "id": "prompt-023",
+    "text": "Have you accounted for different cultural interpretations of color or iconography?",
+    "tags": [
+      "diversity",
+      "internationalization"
+    ]
+  },
+  {
+    "id": "prompt-024",
+    "text": "Does your design avoid unnecessarily gendered features or assumptions?",
+    "tags": [
+      "inclusion",
+      "bias"
+    ]
+  },
+  {
+    "id": "prompt-025",
+    "text": "Can people use the app without creating an account?",
+    "tags": [
+      "privacy",
+      "low-barrier"
+    ]
+  },
+  {
+    "id": "prompt-026",
+    "text": "Do your push notifications respect context and urgency?",
+    "tags": [
+      "cognitive-access",
+      "usability"
+    ]
+  },
+  {
+    "id": "prompt-027",
+    "text": "Have you considered users experiencing stress or crisis when designing flow?",
+    "tags": [
+      "mental-health",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-028",
+    "text": "Can your app be paused and resumed later without losing progress?",
+    "tags": [
+      "flexibility",
+      "usability"
+    ]
+  },
+  {
+    "id": "prompt-029",
+    "text": "Do you allow users to opt out of metrics and tracking?",
+    "tags": [
+      "privacy",
+      "ethics"
+    ]
+  },
+  {
+    "id": "prompt-030",
+    "text": "Have you designed for use in bright sunlight and low-light environments?",
+    "tags": [
+      "visual",
+      "environment"
+    ]
+  },
+  {
+    "id": "prompt-031",
+    "text": "Can someone without formal education easily understand the app\u2019s purpose?",
+    "tags": [
+      "clarity",
+      "inclusion"
+    ]
+  },
+  {
+    "id": "prompt-032",
+    "text": "Does your content use plain language wherever possible?",
+    "tags": [
+      "cognitive-access",
+      "readability"
+    ]
+  },
+  {
+    "id": "prompt-033",
+    "text": "Do your form fields offer autocomplete or formatting help?",
+    "tags": [
+      "usability",
+      "input-support"
+    ]
+  },
+  {
+    "id": "prompt-034",
+    "text": "Are you respecting user agency in how you handle defaults?",
+    "tags": [
+      "ethics",
+      "agency"
+    ]
+  },
+  {
+    "id": "prompt-035",
+    "text": "Have you tested performance on older OS versions?",
+    "tags": [
+      "performance",
+      "low-resource"
+    ]
+  },
+  {
+    "id": "prompt-036",
+    "text": "Do your images include descriptive alt text?",
+    "tags": [
+      "blind",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-037",
+    "text": "Can users navigate using gestures or voice if they can't touch the screen?",
+    "tags": [
+      "alternative-input",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-038",
+    "text": "Is your app functional without downloading extra components?",
+    "tags": [
+      "low-resource",
+      "performance"
+    ]
+  },
+  {
+    "id": "prompt-039",
+    "text": "Do you include skip links or quick navigation for long content?",
+    "tags": [
+      "accessibility",
+      "usability"
+    ]
+  },
+  {
+    "id": "prompt-040",
+    "text": "Can you operate the entire app with one finger?",
+    "tags": [
+      "mobility",
+      "usability"
+    ]
+  },
+  {
+    "id": "prompt-041",
+    "text": "Does your app support light and dark modes?",
+    "tags": [
+      "visual",
+      "preference"
+    ]
+  },
+  {
+    "id": "prompt-042",
+    "text": "Have you offered content in multiple formats (text, audio, visual)?",
+    "tags": [
+      "multimodal",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-043",
+    "text": "Does the app support multiple languages?",
+    "tags": [
+      "internationalization",
+      "diversity"
+    ]
+  },
+  {
+    "id": "prompt-044",
+    "text": "Can users easily give feedback or request features?",
+    "tags": [
+      "participation",
+      "co-design"
+    ]
+  },
+  {
+    "id": "prompt-045",
+    "text": "Is your interface forgiving of mistakes (undo, edit, confirm)?",
+    "tags": [
+      "usability",
+      "ethics"
+    ]
+  },
+  {
+    "id": "prompt-046",
+    "text": "Have you avoided features that demand constant attention?",
+    "tags": [
+      "attention",
+      "mental-health"
+    ]
+  },
+  {
+    "id": "prompt-047",
+    "text": "Does your interface respect neurodiverse sensory needs (e.g., motion, blinking)?",
+    "tags": [
+      "neurodivergent",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "prompt-048",
+    "text": "Can someone understand what the app does in under 30 seconds?",
+    "tags": [
+      "clarity",
+      "onboarding"
+    ]
+  },
+  {
+    "id": "prompt-049",
+    "text": "Are time-sensitive actions clearly marked with feedback?",
+    "tags": [
+      "urgency",
+      "usability"
+    ]
+  },
+  {
+    "id": "prompt-050",
+    "text": "Have you made it easy to stop using the app and delete all data?",
+    "tags": [
+      "exit",
+      "privacy"
+    ]
+  }
+]

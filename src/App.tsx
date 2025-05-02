@@ -1,6 +1,7 @@
 // NOTE: This file should normally not be modified unless you are adding a new provider.
 // To add new routes, edit the AppRouter.tsx file.
 
+import InstallPrompt from "@/components/InstallPrompt";
 import NostrProvider from '@/components/NostrProvider'
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
@@ -33,6 +34,7 @@ export function App() {
             <Toaster />
             <Sonner />
             <AppRouter />
+            <InstallPrompt /> {/* 👈 This goes here */}
           </TooltipProvider>
         </QueryClientProvider>
       </NostrProvider>
